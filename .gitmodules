@@ -5,3 +5,6 @@
 [submodule "ohsome"]
 	path = ohsome
 	url = https://github.com/giscience/ohsome-r
+[submodule "openrouteservice"]
+	path = openrouteservice
+	url = https://github.com/giscience/openrouteservice-r
